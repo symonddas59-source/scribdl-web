@@ -1,0 +1,7 @@
+output/
+history.json
+config.ini
+__pycache__/
+*.pyc
+.venv/
+venv/
